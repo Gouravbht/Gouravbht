@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gouravbht
 - 👀 I’m interested in Blokchain
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on learning blockchain
+- 🤝🏼 I’m looking to collaborate on learning blockchain
 - 📫 connect on twitter @gouravbht
 
 <!---
