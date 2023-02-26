@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Peerchat](https://peerchat.vercel.app/)
 
-- 🌱 I’m currently learning **tailwindcss and Angular**
+- 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [gouravbht.github.io](gouravbht.github.io)
+- 👨‍💻 All of my projects are available at [gouravbht.xyz](gouravbht.github.io)
 
-- 📫 How to reach me **gouravb791@gmail.com**
+- 📫 reach me at **gouravb791@gmail.com**
 
 - ⚡ Fun fact **I can write fiction stories.**
 
