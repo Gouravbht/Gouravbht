@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [gouravbhati.xyz](gouravbhati.xyz)
+- 👨‍💻 All of my projects are available at [gouravbhati.xyz](https://gouravbhati.xyz/)
 
 - 📫 reach me at **gouravb791@gmail.com**
 
