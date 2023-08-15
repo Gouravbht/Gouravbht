@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Peerchat](https://peerchat.vercel.app/)
 
-- 🌱 I’m currently learning **Javascript, DSA**
+- 🌱 I’m currently learning **ReactJS, DSA**
 
-- 🤝 I’m looking for help with **C++,DSA and Javascript**
+- 🤝 I’m looking for help with **C++,DSA and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://gouravbhati.xyz/](https://gouravbhati.xyz/)
 
