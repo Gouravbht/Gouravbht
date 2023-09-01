@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gourav Bhati</h1>
-<h3 align="center">I am a frontend developer and blockchain enthusiast.</h3>
+<h3 align="center">I am a frontend developer </h3>
 
 - 🔭 I’m currently working on [Peerchat](https://peerchat.vercel.app/)
 
 - 🌱 I’m currently learning **ReactJS, DSA**
 
-- 🤝 I’m looking for help with **C++,DSA and ReactJS**
+- 🤝 I’m looking for help with **DSA and ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://gouravbhati.xyz/](https://gouravbhati.xyz/)
 
-- 📫 How to reach me **gouravb791@gmail.com**
+- 📫 Reach me at **gouravb791@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
