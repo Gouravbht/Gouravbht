@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gouravb791@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gPmW7fIgPxZcT5kDSiFuhIlWqFKW8-xf/view?usp=sharing](https://drive.google.com/file/d/1gPmW7fIgPxZcT5kDSiFuhIlWqFKW8-xf/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1gPmW7fIgPxZcT5kDSiFuhIlWqFKW8-xf/view?usp=sharing](https://drive.google.com/file/d/1gPmW7fIgPxZcT5kDSiFuhIlWqFKW8-xf/view?usp=sharing)
 
 - ⚡ Fun fact **I want to build products.**
 
