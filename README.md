@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav Bhati</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on [Peerchat](https://peerchat.vercel.app/)
+- 🔭 I’m currently working on [Velocitytools]
 
 - 🌱 I’m currently learning **Next.js**
 
