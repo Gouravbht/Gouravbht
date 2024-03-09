@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Freelancing projects**
 
-- 👨‍💻 All of my projects are available at [https://gouravbhati.netlify.app/](https://gouravbhati.netlify.app/)
+- 👨‍💻 Here is my Portfolio website: [https://gouravbhati.netlify.app/](https://gouravbhati.netlify.app/)
 
 - 💬 Ask me about **react and javascript**
 
