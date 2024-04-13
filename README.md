@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **gouravb791@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1QJrykE8m6xwKOewuQIscvywxfzAQyeAV/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Z66yOAGmc0ubsoD-YQZJfGQz0KiojbYh/view)
 
 - ⚡ Fun fact **I want to build products.**
 
