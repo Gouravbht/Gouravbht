@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gourav Bhati</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **Next.js 14**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **Freelancing projects**
 
