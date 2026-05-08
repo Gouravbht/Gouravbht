@@ -14,7 +14,7 @@
 - 🚀 Full Stack Developer with **2+ years** shipping AI-powered SaaS products
 - 🏢 Leading frontend at **Meru Technosoft** — reviewing 10–20 PRs/week across a 10+ dev team
 - 🤖 Building with **Gemini AI · Groq AI · Claude AI · MCP automation**
-- 📦 Shipped **5+ live products** — from AI accounting platforms to email digest SaaS
+- 📦 Shipped **2 live products** — from AI accounting platforms to email digest SaaS
 - 💬 Ask me about **React.js, Next.js, TypeScript, Supabase, AI integrations**
 - ⚡ Goal: Build products that actually solve problems
 
