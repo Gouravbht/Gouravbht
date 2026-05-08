@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://gouravbhati.netlify.app/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/gourav-bhati/" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="[https://www.linkedin.com/in/gourav-bhati/](https://www.linkedin.com/in/gourav-bhati/)" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:gouravb791@gmail.com">gouravb791@gmail.com</a>
 </p>
 
